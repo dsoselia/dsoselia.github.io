@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome
-======
 Hi there! My name is Davit and I am a graduate student at the [University of Maryland, College Park](https://www.umd.edu/) as of Fall 2022. I have a passion for solving problems with machine learning and am always looking for ways to better understand how models work and how we can improve them. I am excited to embark on this new journey and hope that it will help me progress in both of these areas.
 
 I enjoy all areas of machine learning, but my particular interests include computer vision, natural language processing, and recommender systems. I am also interested in exploring the intersection of machine learning with other fields such as medical imaging, code generation, and security.
