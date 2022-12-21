@@ -8,30 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-Hi,
+Welcome
 ======
+Hi there! My name is Davit and I am a graduate student at the [University of Maryland, College Park](https://www.umd.edu/) as of Fall 2022. I have a passion for solving problems with machine learning and am always looking for ways to better understand how models work and how we can improve them. I am excited to embark on this new journey and hope that it will help me progress in both of these areas.
 
-I am Davit, a graduate student at the [University of Maryland, College Park](https://www.umd.edu/) as of Fall 2022. I have a passion for solving problems with ML and also enjoy better understanding what makes ML models tick and how we could improve them. Hoping that this step of my journey will help me progress in both of these areas.
+I enjoy all areas of machine learning, but my particular interests include computer vision, natural language processing, and recommender systems. I am also interested in exploring the intersection of machine learning with other fields such as medical imaging, code generation, and security.
 
-I enjoy all areas of ML, but if I were to rank them, the top would be CV, then NLP, and then Recommender Systems. I am also interested in the intersection of ML and other fields such as medical imaging, code generation, and security.
+In my professional experience, I have worked as a machine learning engineer and software engineer, and have completed internships in research. I have led projects in machine learning and software development, and have worked with clients in Georgia and the EU. My research interests include machine learning, computer vision, and robotics, and I have published papers in journals and presented at conferences and workshops.
+
+Thank you for visiting my personal web page. I hope you find the information here helpful. If you have any questions or would like to connect, please don't hesitate to reach out to me via my contact information. I am always happy to chat with other tech enthusiasts and share ideas and experiences.
+
 
 What's New?
 ======
 
-- 2022-09-05: Moved to College Park, MD to pursue studies in Computer Science at the University of Maryland, College Park. Really excited to get a chance to be back in an academic setting and delve deeper into some of the topics I've been interested in for a while now. I'm also looking forward to the opportunities that come with being in a new city and meeting new people.
+- 2022-09-05: I moved to College Park, MD to begin studying Computer Science at the University of Maryland. I am excited to return to an academic setting and have the opportunity to dive deeper into topics that I have been interested in for a while. I'm also looking forward to exploring a new city and meeting new people.This move marks the three-year anniversary of my arrival in Sweden, and I am grateful for the time I have had here and the amazing people I have met, worked with, and studied with. Some of the highlights of my time in Sweden include:
 
-  This comes at the 3 year anneversary of arriving in Sweden, I am very grateful for the time I've had here and for the amazing people I've met, worked, and studied with.
+  - Working as a research engineer at RPL under Professor Hossein Azizpour, where I had the opportunity to focus on exciting deep learning research that I hope to continue in the future.
 
-  Some of the highlights from my time in Sweden include:
-
-  - Working as a research engineer as part at RPL under Prof. Hossein Azizpour, focusing on DL research has been really exciting for me and something I hope to continue doing in the future.
-
-  - Trying to better approximate human movement with ML at Movability lab at KTH under prof. Elena Gutierrez Farewik.
-
+  - Collaborating with Professor Elena Gutierrez Farewik at the Movability Lab at KTH to try to better approximate human movement with machine learning.
+ 
   - Google TVC assignment, working on some really cool stuff, that unfortunately I can talk little about.
 
-  - FinSentim - Deep Learning for Financial Sentiment Analysis, developed togehter with my friends and collegues.
+  - Developing FinSentim, a tool for deep learning-based financial sentiment analysis, with my friends and colleagues.
 
   - Working on Chromosome and genetic data analysis using ML together with amazing team at Arkus AI.
 
-- 2021-08-21: Completed my thesis on 'Continual Learning and Biomedical Image Data' at KTH Royal Institute of Technology, Stockholm, Sweden. Really grateful to my supervisor Saikat Chatterjee for all the support and guidance throughout the thesis. Working on datasets of this size (4TB+ of data) was a first for me and proved an interesting challenge.
+- 2021-08-21: I am thrilled to have completed my thesis on 'Continual Learning and Biomedical Image Data' at KTH Royal Institute of Technology, Stockholm, Sweden. I am so grateful to my supervisor Saikat Chatterjee for all of their support and guidance throughout the process. Working with datasets of this size (4TB+ of data) was a new experience for me and proved to be an interesting challenge. I am so grateful to have had the opportunity to work on this project and am excited to see where it takes me in the future.
