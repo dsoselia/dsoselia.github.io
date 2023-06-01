@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> 📢 **Note:** If you are an Engineer, Researcher, or Entrepreneurs looking to get some feedback on your project, I am here to help. I love to play around with new libraries, gadgets, models, and APIs and happy to provide honest and constructive feedback. Feel free to ping me at dsoselia@umd.edu. Excited to see what you are working on!
+> 📢 **Note:** Are you an Engineer, Researcher, or Entrepreneur looking for feedback on your project? I'm here to help. I love to play around with new libraries, gadgets, models, and APIs and happy to provide honest and constructive feedback. Feel free to ping me at dsoselia@umd.edu. Excited to see what you're working on!
 
 Hi there! My name is Davit and I am a graduate student at the [University of Maryland, College Park](https://www.umd.edu/) as of Fall 2022. I have a passion for solving problems with machine learning and am always looking for ways to better understand how models work and how we can improve them. I am excited to embark on this new journey and hope that it will help me progress in both of these areas.
 
