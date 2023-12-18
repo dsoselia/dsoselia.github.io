@@ -24,7 +24,7 @@ What's New?
 
 - 2022-09-05: I moved to College Park, MD to begin studying Computer Science at the University of Maryland. I am excited to return to an academic setting and have the opportunity to dive deeper into topics that I have been interested in for a while. I'm also looking forward to exploring a new city and meeting new people.This move marks the three-year anniversary of my arrival in Sweden, and I am grateful for the time I have had here and the amazing people I have met, worked with, and studied with. Some of the highlights of my time in Sweden include:
 
-  - Working as a research engineer at RPL under Professor Hossein Azizpour, where I had the opportunity to focus on exciting deep learning research that I hope to continue in the future.
+  - Collaborating with Professor Hossein Azizpour, where I had the opportunity to focus on exciting deep-learning research that I hope to continue in the future.
 
   - Collaborating with Professor Elena Gutierrez Farewik at the Movability Lab at KTH to try to better approximate human movement with machine learning.
  
