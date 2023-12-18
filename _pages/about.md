@@ -33,5 +33,3 @@ What's New?
   - Developing FinSentim, a tool for deep learning-based financial sentiment analysis, with my friends and colleagues.
 
   - Working on Chromosome and genetic data analysis using ML together with amazing team at Arkus AI.
-
-- 2021-08-21: I am thrilled to have completed my thesis on 'Continual Learning and Biomedical Image Data' at KTH Royal Institute of Technology, Stockholm, Sweden. I am so grateful to my supervisor Saikat Chatterjee for all of their support and guidance throughout the process. Working with datasets of this size (4TB+ of data) was a new experience for me and proved to be an interesting challenge. I am so grateful to have had the opportunity to work on this project and am excited to see where it takes me in the future.
