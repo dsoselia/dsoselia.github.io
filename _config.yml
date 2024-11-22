@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Davit Soselia"
 title_separator          : "-"
 name                     : &name "Davit Soselia"
-description              : &description "Graduate Studet in Computer Science at the University of Maryland, College Park"
+description              : &description "PhD Candidate in Computer Science at the University of Maryland, College Park"
 url                      : https://dsoselia.github.io 
 baseurl                  : "" 
 repository               : "dsoselia.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Davit Soselia"
   avatar           : "profile.png"
-  bio              : "Graduate student in CS at UMD"
+  bio              : "PhD Candidate in CS at UMD"
   location         : "College Park, MD, US"
   employer         :
   pubmed           :

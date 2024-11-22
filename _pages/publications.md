@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Papers"
+permalink: /papers/
 author_profile: true
 ---
 
@@ -10,6 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
+
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 Longbin Zhang, **Soselia  Davit**, Wang  Ruoli, Gutierrez-Farewik  Elena M (2022). Lower-Limb Joint Torque Prediction Using LSTM Neural Networks and Transfer Learning. IEEE Transactions on Neural Systems and Rehabilitation Engineering. IEEE.
 - In this project, we explored the use of machine learning techniques to predict lower limb joint torques during daily activities. By using long short-term memory (LSTM) neural networks and transfer learning, we were able to accurately predict hip flexion/extension, hip abduction/adduction, knee flexion/extension, and ankle dorsiflexion/plantarflexion torques during various activities with relatively low error. Our results show that these techniques have the potential to be useful in a variety of settings, such as analyzing the effects of training or medical interventions on athletes or analyzing the remaining muscle strength in assistive device users.
